@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+.contain {
+  width: 1200px; /* Change the width */
+  margin: 0 auto; /* This centers the div horizontally */
+}
+
+#searchInput {
+  width: 50%;
+  padding: 5px; /* Add padding to all sides */
+  margin: 0 auto; /* Center the search input horizontally */
+}
